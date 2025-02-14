@@ -10430,7 +10430,7 @@ mondata SPECIES_BAD_EGG, "Bad Egg"
     mondexweight SPECIES_BAD_EGG, "????.? lbs."
 
 
-mondata SPECIES_DEOXYS_ATTACK, "-----"
+mondata SPECIES_DEOXYS_ATTACK, "Deoxys"
     basestats 50, 180, 20, 150, 180, 20
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 3
@@ -10451,7 +10451,7 @@ mondata SPECIES_DEOXYS_ATTACK, "-----"
     mondexweight SPECIES_DEOXYS_ATTACK, "????.? lbs."
 
 
-mondata SPECIES_DEOXYS_DEFENSE, "-----"
+mondata SPECIES_DEOXYS_DEFENSE, "Deoxys"
     basestats 50, 70, 160, 90, 70, 160
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 3
@@ -10472,7 +10472,7 @@ mondata SPECIES_DEOXYS_DEFENSE, "-----"
     mondexweight SPECIES_DEOXYS_DEFENSE, "????.? lbs."
 
 
-mondata SPECIES_DEOXYS_SPEED, "-----"
+mondata SPECIES_DEOXYS_SPEED, "Deoxys"
     basestats 50, 95, 90, 180, 95, 90
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 3
@@ -10493,7 +10493,7 @@ mondata SPECIES_DEOXYS_SPEED, "-----"
     mondexweight SPECIES_DEOXYS_SPEED, "????.? lbs."
 
 
-mondata SPECIES_WORMADAM_SANDY, "-----"
+mondata SPECIES_WORMADAM_SANDY, "Wormadam"
     basestats 60, 79, 105, 36, 59, 85
     types TYPE_BUG, TYPE_GROUND
     catchrate 45
@@ -10514,7 +10514,7 @@ mondata SPECIES_WORMADAM_SANDY, "-----"
     mondexweight SPECIES_WORMADAM_SANDY, "????.? lbs."
 
 
-mondata SPECIES_WORMADAM_TRASHY, "-----"
+mondata SPECIES_WORMADAM_TRASHY, "Wormadam"
     basestats 60, 69, 95, 36, 69, 95
     types TYPE_BUG, TYPE_STEEL
     catchrate 45
@@ -10535,7 +10535,7 @@ mondata SPECIES_WORMADAM_TRASHY, "-----"
     mondexweight SPECIES_WORMADAM_TRASHY, "????.? lbs."
 
 
-mondata SPECIES_GIRATINA_ORIGIN, "-----"
+mondata SPECIES_GIRATINA_ORIGIN, "Origin Giratina"
     basestats 150, 120, 100, 90, 120, 100
     types TYPE_GHOST, TYPE_DRAGON
     catchrate 3
@@ -10556,7 +10556,7 @@ mondata SPECIES_GIRATINA_ORIGIN, "-----"
     mondexweight SPECIES_GIRATINA_ORIGIN, "????.? lbs."
 
 
-mondata SPECIES_SHAYMIN_SKY, "-----"
+mondata SPECIES_SHAYMIN_SKY, "Shaymin"
     basestats 100, 103, 75, 127, 120, 75
     types TYPE_GRASS, TYPE_FLYING
     catchrate 45
@@ -10577,7 +10577,7 @@ mondata SPECIES_SHAYMIN_SKY, "-----"
     mondexweight SPECIES_SHAYMIN_SKY, "????.? lbs."
 
 
-mondata SPECIES_ROTOM_HEAT, "-----"
+mondata SPECIES_ROTOM_HEAT, "Rotom Heat"
     basestats 50, 65, 107, 86, 105, 107
     types TYPE_ELECTRIC, TYPE_FIRE
     catchrate 45
@@ -10598,7 +10598,7 @@ mondata SPECIES_ROTOM_HEAT, "-----"
     mondexweight SPECIES_ROTOM_HEAT, "????.? lbs."
 
 
-mondata SPECIES_ROTOM_WASH, "-----"
+mondata SPECIES_ROTOM_WASH, "Rotom Wash"
     basestats 50, 65, 107, 86, 105, 107
     types TYPE_ELECTRIC, TYPE_WATER
     catchrate 45
@@ -10619,7 +10619,7 @@ mondata SPECIES_ROTOM_WASH, "-----"
     mondexweight SPECIES_ROTOM_WASH, "????.? lbs."
 
 
-mondata SPECIES_ROTOM_FROST, "-----"
+mondata SPECIES_ROTOM_FROST, "Rotom Frost"
     basestats 50, 65, 107, 86, 105, 107
     types TYPE_ELECTRIC, TYPE_ICE
     catchrate 45
@@ -10640,7 +10640,7 @@ mondata SPECIES_ROTOM_FROST, "-----"
     mondexweight SPECIES_ROTOM_FROST, "????.? lbs."
 
 
-mondata SPECIES_ROTOM_FAN, "-----"
+mondata SPECIES_ROTOM_FAN, "Rotom Fan"
     basestats 50, 65, 107, 86, 105, 107
     types TYPE_ELECTRIC, TYPE_FLYING
     catchrate 45
@@ -10661,7 +10661,7 @@ mondata SPECIES_ROTOM_FAN, "-----"
     mondexweight SPECIES_ROTOM_FAN, "????.? lbs."
 
 
-mondata SPECIES_ROTOM_MOW, "-----"
+mondata SPECIES_ROTOM_MOW, "Rotom Mow"
     basestats 50, 65, 107, 86, 105, 107
     types TYPE_ELECTRIC, TYPE_GRASS
     catchrate 45
@@ -22610,7 +22610,7 @@ mondata SPECIES_PECHARUNT, "Pecharunt"
     mondexweight SPECIES_PECHARUNT, "0.7 lbs."
 
 
-mondata SPECIES_MEGA_VENUSAUR, "-----"
+mondata SPECIES_MEGA_VENUSAUR, "Mega Vanusar"
     basestats 80, 100, 123, 80, 122, 120
     types TYPE_GRASS, TYPE_POISON
     catchrate 45
@@ -22626,7 +22626,7 @@ mondata SPECIES_MEGA_VENUSAUR, "-----"
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
 
-mondata SPECIES_MEGA_CHARIZARD_X, "-----"
+mondata SPECIES_MEGA_CHARIZARD_X, "Mega Charizard X"
     basestats 78, 130, 111, 100, 130, 85
     types TYPE_FIRE, TYPE_DRAGON
     catchrate 45
@@ -22642,7 +22642,7 @@ mondata SPECIES_MEGA_CHARIZARD_X, "-----"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_CHARIZARD_Y, "-----"
+mondata SPECIES_MEGA_CHARIZARD_Y, "Mega Charizard Y"
     basestats 78, 104, 78, 100, 159, 115
     types TYPE_FIRE, TYPE_FLYING
     catchrate 45
@@ -22658,7 +22658,7 @@ mondata SPECIES_MEGA_CHARIZARD_Y, "-----"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_BLASTOISE, "-----"
+mondata SPECIES_MEGA_BLASTOISE, "Mega Blastoise"
     basestats 79, 103, 120, 78, 135, 115
     types TYPE_WATER, TYPE_WATER
     catchrate 45
@@ -22674,7 +22674,7 @@ mondata SPECIES_MEGA_BLASTOISE, "-----"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_BEEDRILL, "-----"
+mondata SPECIES_MEGA_BEEDRILL, "Mega Beedrill"
     basestats 65, 150, 40, 145, 15, 80
     types TYPE_BUG, TYPE_POISON
     catchrate 45
@@ -22690,7 +22690,7 @@ mondata SPECIES_MEGA_BEEDRILL, "-----"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_PIDGEOT, "-----"
+mondata SPECIES_MEGA_PIDGEOT, "Mega Pideot"
     basestats 83, 80, 80, 121, 135, 80
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 45
@@ -22706,7 +22706,7 @@ mondata SPECIES_MEGA_PIDGEOT, "-----"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_ALAKAZAM, "-----"
+mondata SPECIES_MEGA_ALAKAZAM, "Mega Alakazam"
     basestats 55, 50, 65, 150, 175, 105
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 50
@@ -22722,7 +22722,7 @@ mondata SPECIES_MEGA_ALAKAZAM, "-----"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_SLOWBRO, "-----"
+mondata SPECIES_MEGA_SLOWBRO, "Mega Slowbro"
     basestats 95, 75, 180, 30, 130, 80
     types TYPE_WATER, TYPE_PSYCHIC
     catchrate 75
@@ -22738,7 +22738,7 @@ mondata SPECIES_MEGA_SLOWBRO, "-----"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_GENGAR, "-----"
+mondata SPECIES_MEGA_GENGAR, "Mega Gangar"
     basestats 60, 65, 80, 130, 170, 95
     types TYPE_GHOST, TYPE_POISON
     catchrate 45
@@ -22754,7 +22754,7 @@ mondata SPECIES_MEGA_GENGAR, "-----"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_KANGASKHAN, "-----"
+mondata SPECIES_MEGA_KANGASKHAN, "Mega Kangaskhan"
     basestats 105, 125, 100, 100, 60, 100
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
