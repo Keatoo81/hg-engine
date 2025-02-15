@@ -22610,7 +22610,7 @@ mondata SPECIES_PECHARUNT, "Pecharunt"
     mondexweight SPECIES_PECHARUNT, "0.7 lbs."
 
 
-mondata SPECIES_MEGA_VENUSAUR, "Mega Vanusar"
+mondata SPECIES_MEGA_VENUSAUR, "-----"
     basestats 80, 100, 123, 80, 122, 120
     types TYPE_GRASS, TYPE_POISON
     catchrate 45
@@ -22626,7 +22626,7 @@ mondata SPECIES_MEGA_VENUSAUR, "Mega Vanusar"
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
 
-mondata SPECIES_MEGA_CHARIZARD_X, "Mega Charizard X"
+mondata SPECIES_MEGA_CHARIZARD_X, "-----"
     basestats 78, 130, 111, 100, 130, 85
     types TYPE_FIRE, TYPE_DRAGON
     catchrate 45
@@ -22642,7 +22642,7 @@ mondata SPECIES_MEGA_CHARIZARD_X, "Mega Charizard X"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_CHARIZARD_Y, "Mega Charizard Y"
+mondata SPECIES_MEGA_CHARIZARD_Y, "-----"
     basestats 78, 104, 78, 100, 159, 115
     types TYPE_FIRE, TYPE_FLYING
     catchrate 45
@@ -22658,7 +22658,7 @@ mondata SPECIES_MEGA_CHARIZARD_Y, "Mega Charizard Y"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_BLASTOISE, "Mega Blastoise"
+mondata SPECIES_MEGA_BLASTOISE, "-----"
     basestats 79, 103, 120, 78, 135, 115
     types TYPE_WATER, TYPE_WATER
     catchrate 45
@@ -22674,7 +22674,7 @@ mondata SPECIES_MEGA_BLASTOISE, "Mega Blastoise"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_BEEDRILL, "Mega Beedrill"
+mondata SPECIES_MEGA_BEEDRILL, "-----"
     basestats 65, 150, 40, 145, 15, 80
     types TYPE_BUG, TYPE_POISON
     catchrate 45
@@ -22690,7 +22690,7 @@ mondata SPECIES_MEGA_BEEDRILL, "Mega Beedrill"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_PIDGEOT, "Mega Pideot"
+mondata SPECIES_MEGA_PIDGEOT, "-----"
     basestats 83, 80, 80, 121, 135, 80
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 45
@@ -22706,7 +22706,7 @@ mondata SPECIES_MEGA_PIDGEOT, "Mega Pideot"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_ALAKAZAM, "Mega Alakazam"
+mondata SPECIES_MEGA_ALAKAZAM, "-----"
     basestats 55, 50, 65, 150, 175, 105
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 50
@@ -22722,7 +22722,7 @@ mondata SPECIES_MEGA_ALAKAZAM, "Mega Alakazam"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_SLOWBRO, "Mega Slowbro"
+mondata SPECIES_MEGA_SLOWBRO, "-----"
     basestats 95, 75, 180, 30, 130, 80
     types TYPE_WATER, TYPE_PSYCHIC
     catchrate 75
@@ -22738,7 +22738,7 @@ mondata SPECIES_MEGA_SLOWBRO, "Mega Slowbro"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_GENGAR, "Mega Gangar"
+mondata SPECIES_MEGA_GENGAR, "-----"
     basestats 60, 65, 80, 130, 170, 95
     types TYPE_GHOST, TYPE_POISON
     catchrate 45
@@ -22754,7 +22754,7 @@ mondata SPECIES_MEGA_GENGAR, "Mega Gangar"
     runchance 0
     colorflip 0, 0
 
-mondata SPECIES_MEGA_KANGASKHAN, "Mega Kangaskhan"
+mondata SPECIES_MEGA_KANGASKHAN, "-----"
     basestats 105, 125, 100, 100, 60, 100
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -22770,7 +22770,7 @@ mondata SPECIES_MEGA_KANGASKHAN, "Mega Kangaskhan"
     runchance 125
     colorflip 0, 0
 
-mondata SPECIES_MEGA_PINSIR, "Mega Pinsir"
+mondata SPECIES_MEGA_PINSIR, "-----"
     basestats 65, 155, 120, 105, 65, 90
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
