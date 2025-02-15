@@ -30,7 +30,7 @@ trainerdata 0, "-"
         ballseal 0
     endparty
 
-trainerdata 1, "Silver e"
+trainerdata 1, "Silver"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_RIVAL
     nummons 3
