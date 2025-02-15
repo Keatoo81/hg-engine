@@ -22770,7 +22770,7 @@ mondata SPECIES_MEGA_KANGASKHAN, "Mega Kangaskhan"
     runchance 125
     colorflip 0, 0
 
-mondata SPECIES_MEGA_PINSIR, "-----"
+mondata SPECIES_MEGA_PINSIR, "Mega Pinsir"
     basestats 65, 155, 120, 105, 65, 90
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
